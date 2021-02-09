@@ -1,0 +1,133 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Holy market 2020
+
+## Skin
+
+### Label
+Label_78A6614C_6F80_1BB6_41CA_356A21FB6FB4.text = RURU KIDS
+Label_78F59A1F_6F80_E9D2_41D4_B8861F4D5FFE.text = UMKM
+Label_7930CED9_6F80_265E_41D8_3062BCA1F4A5.text = GRAFIS HURU HARA
+Label_79866F30_6F80_27EE_41CC_A72E69BADD8A.text = RURU SHOP
+Label_7B764BA6_6F80_2EF2_41CD_D01BBF9E80B8_mobile.text = GRAFIS HURU HARA
+Label_7BC19CC5_6F80_2AB6_41DA_0DDFE3A73A74_mobile.text = RURU SHOP
+Label_7BC7BEC5_6F80_26B6_41D2_B7268EEF85DC_mobile.text = UMKM
+Label_7BE87C7D_6F80_2A56_41DB_472E9FF9D1ED_mobile.text = RURU KIDS
+Label_88918BEE_8475_CD2E_41A3_83D291AF8EEC.text = copyrght SERRUM ARTHANDLING
+
+## Media
+
+### Title
+album_667F3B8D_726F_0E03_41A8_C6F808D11085.label = Photo Album PHOTO-2020-12-14-07-28-14
+album_667F3B8D_726F_0E03_41A8_C6F808D11085_0.label = PHOTO-2020-12-14-07-28-14
+panorama_4C1BBFC2_6DB6_3794_41D2_B89764A420AD.label = UMKM_EYELEVEL2
+panorama_4C69193A_6DB6_18F4_41D3_FF207CB1713B.label = UMKM_LOWANGLE3
+panorama_4C694B4F_6DB7_F8AC_41D6_FBD09A5AF65A.label = UMKM_LOW ANGLE1
+panorama_4E6D8A17_6DB6_18BB_41BD_1F163B974AD2.label = UMKM_EYELEVEL1
+panorama_4F240280_6D9A_2995_41CC_C1823ADA7CA8.label = UMKM_EYELEVEL3
+panorama_54556D2A_7080_6BF2_41C0_8C83709383F1.label = RURUKIDSLOWANGLE5JPG
+panorama_5516D996_7080_2AD2_41D8_8F64E181C0F9.label = RURUKIDSEYELEVEL1
+panorama_5609B7BE_7080_66D2_41C1_120F370F2D80.label = RURUKIDSLOWANGLE4
+panorama_579D20CA_7080_3AB2_41D3_174D53EDEE30.label = RURUKIDSLOWANGLE2
+panorama_63B0FBE4_6871_09C4_41D0_A9DB63C7929E.label = RURUSHOP_EYELEVEL3
+panorama_63B200DB_6871_17CC_41C2_F177EE8A1212.label = RURUSHOP_LOWANGLE3
+panorama_63B205F2_6871_19DC_41C7_C684E59FA223.label = RURUSHOP_EYELEVEL15
+panorama_63B238F3_6871_77DC_41D9_71018F1577A8.label = RURUSHOP_EYELEVEL4
+panorama_63B2CE09_6871_0A4C_41B9_D04B06D7754C.label = RURUSHOP_LOWANGLE4
+panorama_63B2CEB6_6871_0A44_41D8_CAF43B3B63A6.label = RURUSHOP_EYELEVEL2
+panorama_63B2F2F1_6871_3BDF_41D3_C8841AB80542.label = RURUSHOP_LOWANGLE2
+panorama_63B33BF6_6871_09C4_41D4_4B5C4E34D55A.label = RURUSHOP_LOWANGLE5
+panorama_65D3C38F_6871_1A44_41B2_19C6D1FC61C6.label = RURUSHOP_EYELEVEL1
+panorama_70993B86_6D8E_7F9C_41D0_DF88B618AA69.label = RURUKIDSEYELEVEL3
+panorama_75A777FF_6F80_2652_41A1_C04398C8F433.label = GHH_EYELEVEL_3
+panorama_75D64EA7_6D9A_799C_41B0_6F6002CF15B5.label = RURUKIDSEYELEVEL2
+panorama_75D86B38_6F80_6FDE_41D3_D974B5E33868.label = GHH-EYELEVEL2
+panorama_75D98D4A_6F80_6BB2_4196_6E71327CE2B2.label = GHH_EYELEVEL1
+panorama_75DF8FE2_6F80_2672_41CF_9DA58D9D0DA1.label = GHH_EYELEVEL_4
+video_6402472A_7221_0601_41A8_D88CB9E99E33.label = RURU+SHOP+RADIO+LAUNCHING
+
+## Action
+
+### URL
+LinkBehaviour_40DA04E4_7080_3A76_41D1_6B47F9DC13A2.source = https://www.instagram.com/p/CI2-kP6HM7j/?igshid=16o1xg8jix2kc
+LinkBehaviour_47413F0C_7180_27B6_41C2_4BD9A096EEF1.source = https://www.youtube.com/channel/UCxXCXceEDJwaQ2jMVuKRWmw
+LinkBehaviour_4746BF0C_7180_27B6_41BE_BCD041E2734B.source = https://www.tokopedia.com/rurushopofficial
+LinkBehaviour_4746DF0C_7180_27B6_41BC_A0CBD3A84AB7.source = https://www.instagram.com/rurushop/
+LinkBehaviour_4746FF0C_7180_27B6_417D_5795E942A658.source = https://shopee.co.id/rurushopofficial
+LinkBehaviour_4AB25B58_7180_2E5E_41D5_947A27C68DB6.source = https://shopee.co.id/rurushopofficial
+LinkBehaviour_4AB28B58_7180_2E5E_41DB_F53BB931E200.source = https://www.tokopedia.com/rurushopofficial
+LinkBehaviour_57BC0B44_708F_EFB6_41CD_2D13F1A1D861.source = http://gallery.gudskul.art/
+LinkBehaviour_58F822C6_7080_3EB2_41C7_99B0A6DA32C8.source = https://www.tokopedia.com/seratanstudio/t-shirt-tiedye-kit-kaos?utm_campaign=Product%20Share
+&utm_source=ios&utm_medium=Share&_branch_match_id=867195595145012424
+LinkBehaviour_58F8A2C6_7080_3EB2_41D0_E07AFB63CBBC.source = https://www.tokopedia.com/seratanstudio/full-coloring-tiedye-kit?utm_campaign=Product%20Share
+&utm_source=ios&utm_medium=Share&_branch_match_id=867195595145012424
+LinkBehaviour_5A032341_7080_3FAE_41AF_EC07075D0DF1.source = http://www.binekon.com/
+LinkBehaviour_5A1087F7_7080_6652_41B3_6554B80A05D2.source = https://shopee.co.id/product/4036518/6469555043?smtt=0.4037801-1608110883.9
+LinkBehaviour_5A10C7F7_7080_6652_4175_037368CAD772.source = https://shopee.co.id/product/4036518/7669436421?smtt=0.4037801-1608123483.9
+LinkBehaviour_96498FA1_80EC_0EC8_41D6_C0B346F185DF.source = https://www.tokopedia.com/rurushopofficial/silk-screen-poster-sambel
+LinkBehaviour_97B679FF_80DC_7238_41AC_21D6CF14E5B5.source = https://www.tokopedia.com/rurushopofficial/ciee-ciuu-pind-ink-pisang
+PopupWebFrameBehaviour_67284C86_7221_0A01_41A5_A01D66029C3D.url = https://www.scribd.com/embeds/488743795/content?start_page=1&view_mode=scroll&access_key=key-hU1CQSoPRvheMT7PZPh6
+PopupWebFrameBehaviour_75EAA3AF_7AD2_6BBB_41D8_94F0353243C9.url = https://www.scribd.com/embeds/488743795/content?start_page=1&view_mode=scroll&access_key=key-hU1CQSoPRvheMT7PZPh6
+PopupWebFrameBehaviour_89C5BF73_847C_4536_41D9_8DCA09D24F62.url = https://www.google.com/maps/embed?pb=!4v1612835318808!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.319007333298515!2d106.8153769364986!3f359.9214132683875!4f2.9750398550913673!5f0.4000000000000002
+PopupWebFrameBehaviour_8A72357A_847D_C536_41DD_FF77273044AA.url = https://www.google.com/maps/embed?pb=!4v1612835318808!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.319007333298515!2d106.8153769364986!3f359.9214132683875!4f2.9750398550913673!5f0.4000000000000002
+PopupWebFrameBehaviour_9874072A_8262_8C84_41C6_72304A38CD22.url = //www.youtube.com/embed/_2T6Hxx_gRI
+PopupWebFrameBehaviour_9A0CB25A_8266_8485_41D6_E8C0DB947245.url = https://www.instagram.com/p/CIsXBCCjAKG/embed
+PopupWebFrameBehaviour_9C30904D_8225_849F_4165_387166BBAFD0.url = https://www.instagram.com/p/CI9uCVxAZWG/embed
+PopupWebFrameBehaviour_9C3F6324_8226_848D_41D0_4B7231CFE3D9.url = https://www.instagram.com/p/CI2_wlMn_fY/embed
+PopupWebFrameBehaviour_9C4472CA_8223_8585_41B1_C6D400FCBD61.url = https://www.instagram.com/tv/CIx46hFgmYI/embed
+PopupWebFrameBehaviour_9C613916_823E_848D_41DD_06C1B524B87D.url = https://www.instagram.com/p/BjFXK2mD8yk/embed
+PopupWebFrameBehaviour_9C6A3618_823E_8C85_41CF_CD31B0A9ECF6.url = https://www.instagram.com/p/CI21prgFlnD/embed
+PopupWebFrameBehaviour_9CA31E27_822E_BC8B_41AF_F3AF7A1BFAE0.url = https://www.instagram.com/p/CHJblFJAP2-/embed
+PopupWebFrameBehaviour_9CB2941F_822D_8CBC_41DB_E99A10AE7856.url = //www.youtube.com/embed/HmqZAiSovgw
+PopupWebFrameBehaviour_9CD41D14_8226_9C8D_41DA_11BFA4333DD0.url = //cdn.iframe.ly/embed.js
+PopupWebFrameBehaviour_9D6DB4B7_821D_8D8B_4193_DE946AE4818D.url = https://my.matterport.com/show/?m=voU6X7MR99K
+PopupWebFrameBehaviour_9DBE4067_82E2_848B_41CE_7FB2424D650A.url = https://www.scribd.com/embeds/488796896/content?start_page=1&view_mode=scroll&access_key=key-uwiKrlYNK3oJQPbI0quk
+PopupWebFrameBehaviour_9DCF8CAA_82FE_9D85_41C2_CB7F7D98EF2E.url = https://www.scribd.com/embeds/488797574/content?start_page=1&view_mode=scroll&access_key=key-DBlz564SiauwSc1bPTsk
+PopupWebFrameBehaviour_9DF4D1D8_82E6_8784_41DD_856D58123603.url = https://www.scribd.com/embeds/488797015/content?start_page=1&view_mode=scroll&access_key=key-ISIvRxMCMY3qoRGzxjb5
+PopupWebFrameBehaviour_9E2A65DE_82ED_8FBD_41B2_2005EB7688BB.url = https://www.scribd.com/embeds/488797224/content?start_page=1&view_mode=scroll&access_key=key-IIDmbV1sBV4bW8zUVdGs
+PopupWebFrameBehaviour_A1580C70_82E6_FC84_41E0_5F4F16465BAE.url = https://www.scribd.com/embeds/488797401/content?start_page=1&view_mode=scroll&access_key=key-MO9PGK7F4mbUY9LsZU7f
+PopupWebFrameBehaviour_A201E6D6_AD8F_4F12_41E0_3F06430ACD07.url = https://www.scribd.com/embeds/489348666/content?start_page=1&view_mode=scroll&access_key=key-0m44xou3fDATC4Yk5EVY
+PopupWebFrameBehaviour_A2396C5A_AD8C_C312_41DE_4DDC3755874D.url = https://www.scribd.com/embeds/489348671/content?start_page=1&view_mode=scroll&access_key=key-9sqpNOMEzlmcyi5fdLIw
+PopupWebFrameBehaviour_A25243E5_ADB3_C531_41E2_FC845EEB3A82.url = https://www.scribd.com/embeds/489348678/content?start_page=1&view_mode=scroll&access_key=key-UC0kFKFfCpzs4qsD5VjS
+PopupWebFrameBehaviour_A273FB64_8223_848D_41D1_A4376AD0F6FB.url = https://www.instagram.com/p/CI2-kP6HM7j/embed
+PopupWebFrameBehaviour_A3AAE2EF_821E_859C_41D9_A38DF9EF8C1C.url = https://www.instagram.com/p/CJAsY62gWRp/embed
+PopupWebFrameBehaviour_B909EC78_AD94_C31F_41DC_3CE1C24410FF.url = https://www.scribd.com/embeds/489351001/content?start_page=1&view_mode=scroll&access_key=key-0xWdoh4wls1wKGj3Cejx
+PopupWebFrameBehaviour_B9AB36D2_AD9D_4F13_41B7_11DA2C94A168.url = https://www.scribd.com/embeds/489350996/content?start_page=1&view_mode=scroll&access_key=key-g1qqmeBk0i4jfti0XWEK
+PopupWebFrameBehaviour_B9B1538B_ADBD_45F1_41E5_A1902983A873.url = https://www.scribd.com/embeds/489352224/content?start_page=1&view_mode=scroll&access_key=key-PrdIBsXXw3tW7sWFCrZP
+PopupWebFrameBehaviour_BB80DEF1_AD93_5F2E_41BF_BB22E2096080.url = https://www.scribd.com/embeds/489351000/content?start_page=1&view_mode=scroll&access_key=key-mLkIVIBmFEBqmFd2Gsta
+PopupWebFrameBehaviour_BC007050_AD95_C36F_41D1_6D28C53C1F22.url = https://www.scribd.com/embeds/489349189/content?start_page=1&view_mode=scroll&access_key=key-Hu7FNP0lR47bgSxRh9za
+PopupWebFrameBehaviour_BC0384FD_AD8D_4311_41C7_4FBD14627196.url = https://www.scribd.com/embeds/489349184/content?start_page=1&view_mode=scroll&access_key=key-sA6dVvAxAnkTH3vVV2iw
+PopupWebFrameBehaviour_BC6F6FED_AD94_BD31_41D1_654A627329C7.url = https://www.scribd.com/embeds/489347882/content?start_page=1&view_mode=scroll&access_key=key-NoTigJCA0T9DgAZ4WU8Z
+PopupWebFrameBehaviour_BC913029_AD8C_C331_41BD_68110FCC75A0.url = https://www.scribd.com/embeds/489349186/content?start_page=1&view_mode=scroll&access_key=key-q2SMrhtQjmFf7WjJVlIY
+PopupWebFrameBehaviour_BCB184B8_ADB4_C31F_41E1_38846692B524.url = https://www.scribd.com/embeds/489348674/content?start_page=1&view_mode=scroll&access_key=key-HlXBaSapM0NocRJFo16X
+PopupWebFrameBehaviour_BCE5C898_AD97_431F_41DD_D174B955809D.url = https://www.scribd.com/embeds/489349191/content?start_page=1&view_mode=scroll&access_key=key-etdYE0cTQJxw0Bb76Mn3
+PopupWebFrameBehaviour_BCEE45EE_AD9F_4D33_41C5_520E7B09244E.url = https://www.scribd.com/embeds/489349780/content?start_page=1&view_mode=scroll&access_key=key-jxAuabIbmmYJLy2njSDD
+PopupWebFrameBehaviour_BCF445A0_AD8D_CD2F_4194_CC4CFDBBD95D.url = https://www.scribd.com/embeds/489349187/content?start_page=1&view_mode=scroll&access_key=key-SdtoDAnC15utVbBr6g87
+PopupWebFrameBehaviour_BCFBEF8A_AD95_5DF2_41D5_321D3BD73D36.url = https://www.scribd.com/embeds/489347884/content?start_page=1&view_mode=scroll&access_key=key-VVSYMzlRNNmi2RQZPSwe
+PopupWebFrameBehaviour_BD03C887_AD97_43F2_41E1_6B865C7BC483.url = https://www.scribd.com/embeds/489349192/content?start_page=1&view_mode=scroll&access_key=key-PnE5mJHFgb2YmF9g14ep
+PopupWebFrameBehaviour_BD0D7969_AD8F_C53E_41E2_2F5FBD7FA3A2.url = https://www.scribd.com/embeds/489349182/content?start_page=1&view_mode=scroll&access_key=key-KZqNErIT3trwJg3UOG8q
+PopupWebFrameBehaviour_BD890229_AD8F_4731_41B4_B001641B002D.url = https://www.scribd.com/embeds/489348664/content?start_page=1&view_mode=scroll&access_key=key-XYJSFwM8PhzGaP5FdHjH
+PopupWebFrameBehaviour_BDABFFFA_AD8D_BD13_41D8_B3D7EC56C787.url = https://www.scribd.com/embeds/489354037/content?start_page=1&view_mode=scroll&access_key=key-x9BG2BiI1j5FXcWyTvPA
+PopupWebFrameBehaviour_BDC9C2FD_ADB3_C711_41D8_72567C11A687.url = https://www.scribd.com/embeds/489348673/content?start_page=1&view_mode=scroll&access_key=key-Eavrufg9bM9xGtGXQQzm
+PopupWebFrameBehaviour_BDCEF380_ADBD_45EE_4188_0118FFE4C680.url = https://www.scribd.com/embeds/489348681/content?start_page=1&view_mode=scroll&access_key=key-FCagSy5TOYVvGWGKIlPs
+PopupWebFrameBehaviour_BDD13A75_AD8D_C711_41BF_9D81B756FE91.url = https://www.scribd.com/embeds/489349180/content?start_page=1&view_mode=scroll&access_key=key-QB9bFv0SkQ3BLXsvT5xl
+PopupWebFrameBehaviour_BDD5297F_ADB3_4512_41E4_CAE283F191A4.url = https://www.scribd.com/embeds/489348676/content?start_page=1&view_mode=scroll&access_key=key-BiYjFd1a5w2BCUUG3pjm
+PopupWebFrameBehaviour_BDDF82F1_AD8D_472E_4197_613D9E0AF25B.url = https://www.scribd.com/embeds/489348668/content?start_page=1&view_mode=scroll&access_key=key-4FutqkiMMkYZAkpHJzEL
+PopupWebFrameBehaviour_BDF5AAFD_ADB4_C711_41A1_1B191564FE8E.url = https://www.scribd.com/embeds/489348680/content?start_page=1&view_mode=scroll&access_key=key-UQM2cf9p60DfmP5X138q
+PopupWebFrameBehaviour_BDFEF0FE_ADB7_C312_41E1_09CDD35B16BA.url = https://www.scribd.com/embeds/489348675/content?start_page=1&view_mode=scroll&access_key=key-6wEbvJRs3HvoOEgyQGbJ
+PopupWebFrameBehaviour_BE34B7FE_AD94_CD13_41C5_CB50D6B2F436.url = https://www.scribd.com/embeds/489353291/content?start_page=1&view_mode=scroll&access_key=key-kZfVpYhIeO0Y64jlHmKX
+PopupWebFrameBehaviour_BE4AED27_ADB7_BD31_41D9_0B33B9DD729C.url = https://www.scribd.com/embeds/489352523/content?start_page=1&view_mode=scroll&access_key=key-2rLORZilyVK4iK9n4PTj
+PopupWebFrameBehaviour_BE546B01_AD93_46EE_41DE_75EF4C137B05.url = https://www.scribd.com/embeds/489351002/content?start_page=1&view_mode=scroll&access_key=key-Me6TB51cVidSca9dXwkh
+PopupWebFrameBehaviour_BED5DAB1_AD9F_C711_41DF_DE11FB74591F.url = https://www.scribd.com/embeds/489350995/content?start_page=1&view_mode=scroll&access_key=key-gsZ0MWy9GgsPTgpg7yP6
+PopupWebFrameBehaviour_BEEB5C64_AD95_4337_41C2_EBBBD631032B.url = https://www.scribd.com/embeds/489350998/content?start_page=1&view_mode=scroll&access_key=key-Yh8gel5UgUCzddBRQ72h
+PopupWebFrameBehaviour_BF0832E9_AD94_C731_41D7_D9087DCB8FB3.url = https://www.scribd.com/embeds/489350999/content?start_page=1&view_mode=scroll&access_key=key-Ti24ejtw0otPii5Vtixg
+PopupWebFrameBehaviour_BF1F508A_ADBD_43F2_41D0_F7659EE93282.url = https://www.scribd.com/embeds/489350997/content?start_page=1&view_mode=scroll&access_key=key-FZXbAPeqj3i5EIUSmTL6
+PopupWebFrameBehaviour_BF7C02DD_ADB5_4716_41DA_0063A609317C.url = https://www.tokopedia.com/rurushopofficial/dim-sum-mulut-dim-sum-ayam
+PopupWebFrameBehaviour_BF86FEBC_AD8F_FF16_41C5_0C0501E6C2BE.url = https://www.scribd.com/embeds/489351868/content?start_page=1&view_mode=scroll&access_key=key-3PePi1OnWeflNa551rUs
+PopupWebFrameBehaviour_BFE4FED7_AD93_5F11_4199_F9F673F96D7D.url = https://www.scribd.com/embeds/489349190/content?start_page=1&view_mode=scroll&access_key=key-cyRQ1hUBNk83hdVbY0Nj
+PopupWebFrameBehaviour_BFF944A2_AD93_C332_41C0_65EB6DDCBE08.url = https://www.scribd.com/embeds/489349188/content?start_page=1&view_mode=scroll&access_key=key-pswFVPu4kRERosPrDQY8

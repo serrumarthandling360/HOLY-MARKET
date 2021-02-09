@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Kalam";
+   src: url("fonts/Kalam Bold.woff") format("woff"), url("fonts/Kalam Bold.eot") format("embedded-opentype"), url("fonts/Kalam Bold.ttf") format("truetype"), url("fonts/Kalam Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Kalam";
+   src: url("fonts/Kalam.woff") format("woff"), url("fonts/Kalam.eot") format("embedded-opentype"), url("fonts/Kalam.ttf") format("truetype"), url("fonts/Kalam.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
