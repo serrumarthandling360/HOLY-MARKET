@@ -19,6 +19,7 @@ Label_7BC19CC5_6F80_2AB6_41DA_0DDFE3A73A74_mobile.text = RURU SHOP
 Label_7BC7BEC5_6F80_26B6_41D2_B7268EEF85DC_mobile.text = UMKM
 Label_7BE87C7D_6F80_2A56_41DB_472E9FF9D1ED_mobile.text = RURU KIDS
 Label_88918BEE_8475_CD2E_41A3_83D291AF8EEC.text = copyrght SERRUM ARTHANDLING
+Label_91F470BF_84B4_5B2E_41D9_643E6B9B5565.text = copyright SERRUM ARTHANDLING
 
 ## Media
 
@@ -71,6 +72,7 @@ LinkBehaviour_5A1087F7_7080_6652_41B3_6554B80A05D2.source = https://shopee.co.id
 LinkBehaviour_5A10C7F7_7080_6652_4175_037368CAD772.source = https://shopee.co.id/product/4036518/7669436421?smtt=0.4037801-1608123483.9
 LinkBehaviour_96498FA1_80EC_0EC8_41D6_C0B346F185DF.source = https://www.tokopedia.com/rurushopofficial/silk-screen-poster-sambel
 LinkBehaviour_97B679FF_80DC_7238_41AC_21D6CF14E5B5.source = https://www.tokopedia.com/rurushopofficial/ciee-ciuu-pind-ink-pisang
+LinkBehaviour_982F10B6_89A9_6E53_41E0_10CAE83837F2.source = http://gallery.gudskul.art/
 PopupWebFrameBehaviour_67284C86_7221_0A01_41A5_A01D66029C3D.url = https://www.scribd.com/embeds/488743795/content?start_page=1&view_mode=scroll&access_key=key-hU1CQSoPRvheMT7PZPh6
 PopupWebFrameBehaviour_75EAA3AF_7AD2_6BBB_41D8_94F0353243C9.url = https://www.scribd.com/embeds/488743795/content?start_page=1&view_mode=scroll&access_key=key-hU1CQSoPRvheMT7PZPh6
 PopupWebFrameBehaviour_89C5BF73_847C_4536_41D9_8DCA09D24F62.url = https://www.google.com/maps/embed?pb=!4v1612835318808!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.319007333298515!2d106.8153769364986!3f359.9214132683875!4f2.9750398550913673!5f0.4000000000000002
